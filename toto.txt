@@ -1,2 +1,4 @@
 Hello world!
-XOXOXO
+Working on conflict merge :)
+3rd attempt
+ABC
